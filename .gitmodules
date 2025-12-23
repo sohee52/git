@@ -1,4 +1,0 @@
-[submodule "git-yalco-submodule"]
-	path = git-yalco-submodule
-	url = https://github.com/sohee52/git-yalco-submodule.git
-	branch = main
