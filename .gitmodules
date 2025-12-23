@@ -1,0 +1,8 @@
+[submodule "git-yalco"]
+	path = git-yalco
+	url = https://github.com/sohee52/git-yalco
+	branch = main
+[submodule "git-notes"]
+	path = git-notes
+	url = https://github.com/sohee52/git-notes
+	branch = main
